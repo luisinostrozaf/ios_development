@@ -1,3 +1,3 @@
 # ios_development
 
-This is my first simple "to do" app that let the user create tasks.
+Im starting to learn ios development, right now learning the basics of Swift, i'll be uploading my works here
